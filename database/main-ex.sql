@@ -1,0 +1,1 @@
+SELECT * FROM ecomm_.adonis_schema LIMIT 1000;
